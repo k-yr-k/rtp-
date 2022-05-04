@@ -1,6 +1,9 @@
-# rtp-WoodySteinaVasulka
-Recreating Woody and Steina Vasulka’s ‘Reminiscence’, 1974
+# rtp-VictorVasarely
+Recreating Victor Vasarely’s ‘Vega-Nor’, 1969
 
-![](Recr_WoodySteinaVasulka.png)
+![](Recr_VictorVasarelyA.gif)
+![](Recr_VictorVasarelyB.png)
 
-Original Artwork: https://www.moma.org/collection/works/118540
+Original Artwork: https://www.albrightknox.org/artworks/k196929-vega-nor
+Source Code A: https://editor.p5js.org/k-yr-k/sketches/m50Y97rsJ
+Source Code B: https://editor.p5js.org/k-yr-k/sketches/0nlgMj-PH
